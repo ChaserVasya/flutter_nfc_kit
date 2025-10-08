@@ -16,3 +16,5 @@ doc
 pubspec.lock
 !example/pubspec.lock
 
+# FVM Version Cache
+.fvm/
